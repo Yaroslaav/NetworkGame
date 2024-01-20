@@ -76,3 +76,7 @@ DerivedDataCache/*
 
 EditorUIScaleCustomization/*
 Plugins/Developer/RiderLink*
+
+FPSNetwork/Saved/
+
+FPSNetwork/Intermediate/
